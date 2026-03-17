@@ -1,3 +1,5 @@
+นาย อัครพล สร้อยเสนา 683450198-9
+
 # Grade Calculation System (C#)
 
 ## 📌 Description
@@ -50,8 +52,6 @@
 - แสดงรายชื่อนักศึกษา
 - เมนูใช้งานต่อเนื่อง
 
----
 
-## ▶️ How to Run
-- Compile ด้วย Visual Studio หรือ .NET CLI
-- รัน Program.cs
+
+
