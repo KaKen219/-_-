@@ -2,13 +2,13 @@
 
 # Grade Calculation System (C#)
 
-## 📌 Description
+##  Description
 ระบบคำนวณเกรดสำหรับหลักสูตรวิทยาการคอมพิวเตอร์และสารสนเทศ  
 สามารถสร้างรายวิชา เพิ่มนักศึกษา และคำนวณผลลัพธ์ต่าง ๆ ได้
 
 ---
 
-## 🧱 Class Diagram 
+##  Class Diagram 
 
 ### 1. Person (Abstract Class)
 - name : string
@@ -35,7 +35,7 @@
 
 ---
 
-## 🎯 OOP Concepts
+##  OOP Concepts
 
 - Encapsulation: ใช้ private + getter
 - Inheritance: Student สืบทอดจาก Person
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 Features
+##  Features
 - เพิ่มรายวิชา
 - เพิ่มนักศึกษา
 - คำนวณเกรดอัตโนมัติ
