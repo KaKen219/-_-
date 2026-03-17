@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-// =================== ABSTRACTION ===================
+
 abstract class Person
 {
     protected string name;
