@@ -8,7 +8,7 @@
 
 ---
 
-## 🧱 Class Diagram (อธิบาย)
+## 🧱 Class Diagram 
 
 ### 1. Person (Abstract Class)
 - name : string
