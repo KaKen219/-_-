@@ -21,7 +21,7 @@ class Course
 
     public void ShowAllStudents()
     {
-        Console.WriteLine($"\n📚 Course: {courseName} ({courseCode})");
+        Console.WriteLine($"\n Course: {courseName} ({courseCode})");
 
         foreach (var s in students)
         {
